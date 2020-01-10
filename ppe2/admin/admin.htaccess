@@ -1,0 +1,4 @@
+AuthName "Inscrire son login et son mot de passe"
+AuthType Basic
+AuthUserFile "C:\Users\arthu\OneDrive\Travail\PPE  SLAM\Site projet 2\admin.htpasswd"
+Require valid-user
